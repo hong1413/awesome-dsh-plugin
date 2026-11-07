@@ -1,0 +1,7 @@
+url: https://github.com/hong1413/dsh-memory
+name: hong1413/dsh-memory
+category: memory
+description:
+  en: 'Long-term experience memory for any LLM in DeepSeek Harness: five model tools (search, get, status, save, feedback) plus an interactive 3D star map where pending proposals appear as clickable meteors. Writes go through the approval service; the engine is a bundled Python CLI.'
+  zh: '给 DeepSeek Harness 里的任意大模型装上跨会话记忆：五个工具（检索/读取原文/概览/沉淀/回写效果），外加一张可交互的 3D 星图，待提案化作可点击流星。写入走审批服务；引擎是随包内置的 Python CLI。'
+icon: https://cdn.jsdelivr.net/gh/hong1413/dsh-memory@main/icon.png
